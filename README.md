@@ -1,2 +1,2 @@
 # HVproject
-CERN LHC ATLAS NSW Micromegas detectors high voltage analysis tool (Joint Institute for Nuclear Research)
+Software is used for CERN LHC ATLAS experiment NSW (New Small Wheel Upgrade) project at Joint Institute for Nuclear Research (Dubna, Russia) which has ability to analyze Micromegas detectors high voltage data
